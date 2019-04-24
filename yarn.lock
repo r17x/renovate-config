@@ -3440,10 +3440,10 @@ mixin-deep@^1.2.0:
   dependencies:
     minimist "0.0.8"
 
-moment-timezone@0.5.23:
-  version "0.5.23"
-  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.23.tgz#7cbb00db2c14c71b19303cb47b0fb0a6d8651463"
-  integrity sha512-WHFH85DkCfiNMDX5D3X7hpNH3/PUhjTGcD0U1SgfBGZxJ3qUmJh5FdvaFjcClxOvB3rzdfj4oRffbI38jEnC1w==
+moment-timezone@0.5.25:
+  version "0.5.25"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.25.tgz#a11bfa2f74e088327f2cd4c08b3e7bdf55957810"
+  integrity sha512-DgEaTyN/z0HFaVcVbSyVCUU6HeFdnNC3vE4c9cgu2dgMTvjBUBdBzWfasTBmAW45u5OIMeCJtU8yNjM22DHucw==
   dependencies:
     moment ">= 2.9.0"
 
@@ -4708,10 +4708,10 @@ remark@^9.0.0:
     remark-stringify "^5.0.0"
     unified "^6.0.0"
 
-renovate@16.5.1:
-  version "16.5.1"
-  resolved "https://registry.yarnpkg.com/renovate/-/renovate-16.5.1.tgz#3f6089a762e66c5b39a61e8479614dae139c5f28"
-  integrity sha512-EP+J5MS1G+wWCDtslCDmLBW5pLFUexHPI1Xq4+4STi8v1VjBZC/tIyEtc0TSngDg9gjU2oeiM6eV0qEm5dJHWQ==
+renovate@16.5.4:
+  version "16.5.4"
+  resolved "https://registry.yarnpkg.com/renovate/-/renovate-16.5.4.tgz#81693ea5316d430de3e2167d23625977397f3517"
+  integrity sha512-Oi10KQhs2inhgh3YWhCbLwdNYXBui6SnXvIbB1Q+tvvv1W1zbWl4N75tpf3iB3qM2X7eAgzzYEplbWg8bL4KUg==
   dependencies:
     "@renovate/pep440" "0.4.1"
     "@renovatebot/docker-registry-client" "3.3.0"
@@ -4752,7 +4752,7 @@ renovate@16.5.1:
     markdown-it "8.4.2"
     minimatch "3.0.4"
     moment "2.24.0"
-    moment-timezone "0.5.23"
+    moment-timezone "0.5.25"
     node-html-parser "1.1.15"
     npm "6.9.0"
     openpgp "2.6.2"
